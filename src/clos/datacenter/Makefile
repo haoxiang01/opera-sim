@@ -1,4 +1,4 @@
-CC = g++-7
+CC = g++
 CFLAGS = -Wall -g -O
 CRT=`pwd`
 INCLUDE= -I/$(CRT)/.. -I$(CRT) 
